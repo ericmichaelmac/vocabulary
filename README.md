@@ -1,1 +1,1 @@
-# succinct
+# Succinct
