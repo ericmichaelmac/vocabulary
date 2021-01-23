@@ -1,4 +1,4 @@
-# Succinct
+# Succinct Simplistic Vocabulary
 
 ## Services
 - personal account
