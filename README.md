@@ -36,4 +36,5 @@ Elegance ranking
 
 Most used words
 Vocabulary analyzation app
-Document words into categories and rank them based on difficulty and sophistication```
+Document words into categories and rank them based on difficulty and sophistication
+```
