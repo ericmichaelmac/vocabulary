@@ -1,5 +1,5 @@
 # Vue
-# Flask
+# Node
 # PostgreSQL
 
 ## Requirements
