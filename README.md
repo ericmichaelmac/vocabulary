@@ -1,7 +1,3 @@
-# Vue
-# Node
-# PostgreSQL
-
 ## Requirements
 ```Shape your vocabulary based on words you want to use
 Have data analytics provide insight to words
